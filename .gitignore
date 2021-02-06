@@ -1,3 +1,10 @@
+# User specified
+/src/mainmodulename/common/plugin/__init__.py
+/src/mainmodulename/common/__init__.py
+
+# Idea
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -9,6 +16,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+/build/
 develop-eggs/
 dist/
 downloads/
@@ -106,6 +114,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+venv38-pure/
 ENV/
 env.bak/
 venv.bak/
