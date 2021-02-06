@@ -1,0 +1,14 @@
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\data_source_runner.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\__init__.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\__main__.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\common\plugin_template.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\common\config\config.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\common\config\__init__.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\common\plugin\plugin_loader.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\common\plugin\plugin_module_type.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\common\plugin\plugin_template.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\common\plugin\__init__.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\plugins\__init__.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\plugins\common\plugin_config.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\plugins\type_one_plugin\type_one_plugin.py
+C:\dev\learning\basic_python_plugin_project\src\mainmodulename\plugins\type_one_plugin\__init__.py

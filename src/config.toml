@@ -1,0 +1,7 @@
+[general]
+file = "its-a-file-path"
+# Optional field: notset, info, warning, debug
+logging_level = "info"
+[plugins]
+enable = ["plugin-alias-one", "plugin-alias-one",]
+disable = []

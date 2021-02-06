@@ -19,4 +19,8 @@ class Plugin(ABC):
 
     @abstractmethod
     def run(self):
+        """
+        Implement the logic in this function, because this is the one which will be called trough runtime.
+        :return:
+        """
         pass

@@ -1,7 +1,7 @@
 # User specified
 /src/mainmodulename/common/plugin/__init__.py
 /src/mainmodulename/common/__init__.py
-
+setup.cfg
 # Idea
 .idea/
 

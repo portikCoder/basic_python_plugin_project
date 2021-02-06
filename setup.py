@@ -18,7 +18,9 @@ def read_file(file_path: str) -> str:
 
 readme = read_file('README.md')
 install_requires = []
-tests_require = []
+tests_require = [
+    'pylint == 2.6.0'
+]
 extras = {
     'test': tests_require,
 }
