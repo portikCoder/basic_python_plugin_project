@@ -30,7 +30,7 @@ setup(
     long_description=readme,
     author=__author__,
     author_email='@portikCoder',
-    url='https://bitbucket.platform.dev.sdt.ericsson.se/projects/CEM/repos/cem-input-data-validator/browse',
+    url='https://github.com/portikCoder/basic_python_plugin_project',
     packages=[
         'mainmodulename',
     ],
